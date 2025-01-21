@@ -19,4 +19,7 @@ Customizable rules: Define your own rules for header checks.
 Save scan results: Outputs results in JSON, CSV, or plain text formats for easy reporting.
 Integration-friendly: Works seamlessly in CI/CD pipelines and testing workflows.
 
-1. git clone 
+1. git clone https://github.com/pssecurity1233/http-header-scanner.git
+2. cd http-header-scanner
+3. python main.py -help
+4. python main.py url http://exmple.com
